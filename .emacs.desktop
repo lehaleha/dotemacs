@@ -1,0 +1,31 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Sat Sep 24 16:52:25 2016
+;; Desktop file format version 208
+;; Emacs version 25.1.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (22503 4537 61900 300000) (desktop . "208") "lehak@DESKTOP-6AH16O5" nil nil ((((font-backend uniscribe gdi) (font . "-outline-Consolas-normal-normal-normal-mono-32-*-*-*-c-*-iso8859-1") (border-width . 2) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars . right) (horizontal-scroll-bars) (foreground-color . "#f6f3e8") (background-color . "#242424") (mouse-color . "OrangeRed") (border-color . "gold") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (alpha) (menu-bar-lines . 1) (tool-bar-lines . 0) (height . 44) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 34) (scroll-bar-height . 0) (fullscreen . maximized) (display-type . color) (background-mode . dark) (cursor-color . "#656565") (environment) (frameset--id . "A483-FBB7-1CB5-2E65") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (icon-name) (display . "w32") (explicit-name) (tool-bar-position . top) (visibility . t) (width . 149) (left + -13) (top + -13)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 5) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 148) (min-pixel-width . 180) (min-pixel-height-ignore . 74) (min-pixel-width-ignore . 90) (min-pixel-height-safe . 37) (min-pixel-width-safe . 36)) leaf (pixel-width . 2736) (pixel-height . 1623) (total-width . 152) (total-height . 43) (normal-height . 1.0) (normal-width . 1.0) (buffer "evil.el" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 2 t nil 0 t) (vscroll . 0) (dedicated) (point . 4332) (start . 3936))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("org-mode"))
+(setq regexp-search-ring '("jk"))
+(setq register-alist '((48 . "(setq kill-whole-line t)\n")))
+(setq file-name-history '("~/.emacs"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "c:/Users/lehak/AppData/Roaming/.emacs.d/elpa/evil-20160827.1510/evil.el"
+  "evil.el"
+  'emacs-lisp-mode
+  '(undo-tree-mode)
+  4332
+  '(4428 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring nil)))
+
